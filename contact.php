@@ -19,7 +19,7 @@
 			<article id="contact">
 				<header>
 					<h3>Headquarters</h3>
-					<p>1 Main St. SE #400<br> Minneapolis, MN 55414, United States</p>
+					<p>1 Main St. SE #400<br> Minneapolis, MN 55414, India</p>
 					<p class="link-c"><a href="#">Directions</a></p>
 				</header>
 				<form  onSubmit="return false;" id="contact-form">
@@ -49,6 +49,9 @@
 				</form>
 			</article>
 			<?php include("footer.php")  ?>
+			
+			
+			
 		</div>
 		<script type="text/javascript">
 			 head.load('javascript/jquery.js', 'javascript/twitterFetcher.js', 'javascript/scripts.js', 'javascript/mobile.js', 'javascript/rewalk.js');
